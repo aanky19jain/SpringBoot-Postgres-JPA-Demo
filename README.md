@@ -1,4 +1,4 @@
-# SpringBoot R2dbc Reactive APIs
+# SpringBoot REST APIs
 
 ## Tech Stack:
 * Java 11
